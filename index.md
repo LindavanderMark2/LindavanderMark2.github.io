@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Handleiding PostNL plug-in
 
 You can use the [editor on GitHub](https://github.com/LindavanderMark2/LindavanderMark2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
